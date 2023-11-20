@@ -1,5 +1,5 @@
 # Count IT
-![logo]()
+![logo](/images/logo.png)
 ### To link do opisu naszego projektu:
 https://docs.google.com/document/d/1apDjpXmKEzrL-0nE6ZCeOEjP8akZZi5wl0F_ggGkdY8/edit#heading=h.38mtrp5pjges
 
